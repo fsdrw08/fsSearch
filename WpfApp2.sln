@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp2", "WpfApp2\WpfApp2.csproj", "{FC176627-89AF-4CC5-A97D-F88528267F60}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5B1C96D2-A456-4877-8387-C4088F50D6A0}"
+	ProjectSection(SolutionItems) = preProject
+		FodyWeavers.xml = FodyWeavers.xml
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC176627-89AF-4CC5-A97D-F88528267F60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC176627-89AF-4CC5-A97D-F88528267F60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC176627-89AF-4CC5-A97D-F88528267F60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC176627-89AF-4CC5-A97D-F88528267F60}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14B22535-2A95-40DF-AD85-06B4E1DB5D89}
+	EndGlobalSection
+EndGlobal
